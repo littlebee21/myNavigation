@@ -1,0 +1,39 @@
+资源 - 汽车电子
+
+网站：
+    开源软件/开源汽车/车载系统 https://www.oschina.net/project/tag/444/opensource-car
+开源项目
+    AUTOSAR软件项目ARCCORE
+    有一个FreeOsek
+
+
+资源 - 汽车
+
+汽车之家
+易车网
+懂车帝
+太平洋汽车网
+爱卡汽车
+瓜子二手车
+第一电动网
+有驾
+
+1：Yahoo! Autos  http://autos.yahoo.com/
+2：AutoTrader
+3：Edmunds
+4：凯利蓝皮书（KBB）
+5：Cars.com
+6：Autoblog
+7：Jalopnik
+8：Motor Trend
+9：CarMax
+
+汽车厂家分布图 https://www.marklines.com/cn/global/chn
+
+
+资源 - 汽车电子
+网站：
+    开源软件/开源汽车/车载系统 https://www.oschina.net/project/tag/444/opensource-car
+开源项目
+    AUTOSAR软件项目ARCCORE
+    有一个FreeOsek
