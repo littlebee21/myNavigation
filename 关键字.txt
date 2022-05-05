@@ -1,0 +1,54 @@
+关键字
+arm 
+gdb addr2line
+
+
+LinuxDriver
+
+模块：
+GPRS，JTAG，ARM、MIPS、RISC-V等）、
+不同厂家的SoC处理器（如Cortex-M系列、cortex-A系列、AI芯片 
+Linux、uC/OS、FreeRTOS、Android
+
+云端：
+腾讯云：
+
+ESP8266 zigbee
+Ardiunuo，4G模块，NB-IOT模块
+
+OS
+[鸿蒙OS][RT-Thread][TencentOS tiny][freertos][µC/OS ][mbed-os][BabyOS][LuatOS][Contiki-OS][DJYOS]
+[klite][lmosem][freenos][cJSON][jsmn][MultiTimer ][MultiButton][SmartTimer ][CmBacktrace][EasyLogger]
+框架
+[EasyFlash][SFUD][lw_oopc][PLOOC][cmd-parser][mqttclient][NorthFrame][letter-shell][pigweed][lwrb][cQueue]
+[Unity][Embedded Unit][CuTest ][cmockery][googletest][znfat ][libu][LWIP][OpenBLT][airkissOpen]
+[nr_micro_shell][FlexibleButton][mbedtls][inih][QP][MS-RTOS][protobuf-c]
+[gear-lib][EFSM][EasyX][tbox][SQLite ][eepromfs]
+
+GUI
+[GuiLite][ToughGFX][emwin][littlevGL][野牛 LittlevGL demo][MonoGUI ][MiniGUI][QT][Gtk][AWTK][玲珑GUI]
+
+物联网
+[HomeAssistant ][Domoticz ][Kaa IoT Platform][RT-Thread IoT SDK ][从零打造物联网]
+
+项目：
+[qt_2019_ncov][H7-TOOL_STM32H7_App][mcush][Crazepony][MiniQ][LiPow-Firmware][Avem]
+[SoftWareSerial][串口ISP程序][DSO_Nano][DSView][MCU-Development][Arduino][EWAHBoolArray]
+
+资源网站
+[讯为官网][Debian][Ubuntu][BOA官网][GNU][ST][讯为开发社区][qter][NXP社区]
+[嵌入式开发者社区][armfly][野火][正点][单片机教程网][芯路恒电子][Linux Lab][mult_timer]
+[yoxios][DoST][Linux][Linux源码][宅学部落][ChinaUnix][泰晓科技][kerneltravel]
+[rockchip][mosquitto] (https://github.com/eclipse/mosquitto)或[mosquitto(下载速度快)][QT_Creator]
+
+[DAPLink/CMSIS DAP][100ask download][fire download][openedv download][u-boot]
+[wireshark][easyicon][Buildroot][荔枝派][清华镜像站][中科大镜像站][bear-pi][PyQt5]
+
+[git手册][开源项目风格][电子世家][21ic][micropython][电堂科技][源代码使用示例聚合器][KST-51 ]
+[原子哥][digoboy][c.biancheng][open-c-book][PyQt5][open-shell-book][software_unit_test]
+[蜗窝科技][bookstack][MobaXterm][Stduino][codingdict][codingdict开源软件][C经典示例]
+[xmake]
+
+芯片资料：
+[TI][NXP][Freescale][hisilicon][Samsung][Infineon][analogdevicesinc][MicrochipTech]
+[NordicSemiconductor][cypress-io]
